@@ -1,0 +1,1 @@
+[{"values":["win10"],"name":"systemVersion"},{"values":["3.9.0"],"name":"pythonVersion"},{"values":["2.13.0"],"name":"allureVersion"},{"values":["http://192.168.1.x:8080"],"name":"baseUrl"},{"values":["auto_test"],"name":"projectName"},{"values":["martin"],"name":"author"},{"values":["123123123@qq.com"],"name":"email"}]
